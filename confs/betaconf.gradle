@@ -1,35 +1,32 @@
 /* Configuration for citeservlet
 */
 
-
 project.ext {
 
     /* *****************************************  */		    
     /* Two essential system configuration values  */
     /* *****************************************  */		    
     // 1. Sparql endpoint (used by all services)
-    sparqls  = "http://localhost:3030/natarch/"
+    sparqls  = "http://localhost:3333/natarch/"
 
     // 2. Absolute or relative URL of IIPSrv fast cgi (used by image service)
     iipsrv = "http://beta.hpcc.uh.edu/fcgi-bin/iipsrv.fcgi"
 	
-    inventoryDir = "localconf/inventories"
-
+    inventoryDir = "/home/neel/repos/git/natarch/texts/inventories"
 
     /* *****************************************  */		    
     /* Project-specific values                    */
     /* *****************************************  */		    
     // Where you will install or run citeservlet
-    homeUrl = "http://localhost:8080/citeservlet"
+    homeUrl = "http://beta.hpcc.uh.edu/tomcat/natarch/"
 
     // Strings for labelling web pages
-    projectlabel = "Documents from the U.S. National Archive"
+    projectlabel = "Documents from the U.S. National Archives"
 
     // Text to inject into header, footer and nav elements
     htmlnav = "HC MID, documents from the National Archive: <a href='home'>Home</a>"
     htmlheader = ""
     htmlfooter = "Happy July 4th, 2014!"
-
 
     // Default URNs to populate query forms 
     demoImage = ""
@@ -41,8 +38,8 @@ project.ext {
     // about this: 9000 is a good default.
     detailWidth = "9000"
 
-    coreCss = "css/hmt-core.css"
 
+    coreCss = "css/hmt-core.css"
     ckImgSize = "1000"
-    defaultContext = "5"
+    defaultContext = "2"
 }
