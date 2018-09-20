@@ -1,0 +1,3 @@
+Text URN#Format#Document#Namespace mapping#Citation model
+urn:cts:mid:natarch.declindep.1776:#xml#declaration-parchment.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:body/tei:div[@n = '?']
+urn:cts:mid:natarch.declindep.1820:#xml#declaration-parchment.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:body/tei:div[@n = '?']
