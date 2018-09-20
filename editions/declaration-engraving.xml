@@ -17,7 +17,7 @@
 
   <text>
     <body>
-      <p>TEXT CONTENTS</p>
+      <div n="SECTIONID"><p>TEXT OF SECTION</p></div>
     </body>
   </text>
 
