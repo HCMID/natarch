@@ -24,6 +24,6 @@ Physical pages:
 
 Documentary images:
 
-  - the parchment is illustrated by [`urn:cite:usnatarch:declindep.v1:Declaration_Pg1of1_AC`](http://www.homermultitext.org/ict2/?urn=urn:cite:usnatarch:declindep.v1:Declaration_Pg1of1_AC)
+  - the parchment is illustrated by [`urn:cite2:usnatarch:declindep.v1:Declaration_Pg1of1_AC`](http://www.homermultitext.org/ict2/?urn=urn:cite2:usnatarch:declindep.v1:Declaration_Pg1of1_AC)
 - the engraving is illustrated by
-[`urn:cite:usnatarch:declindep.v1:Declaration_Engrav_Pg1of1_AC`](http://www.homermultitext.org/ict2/?urn=urn:cite:usnatarch:declindep.v1:Declaration_Engrav_Pg1of1_AC)
+[`urn:cite2:usnatarch:declindep.v1:Declaration_Engrav_Pg1of1_AC`](http://www.homermultitext.org/ict2/?urn=urn:cite2:usnatarch:declindep.v1:Declaration_Engrav_Pg1of1_AC)
