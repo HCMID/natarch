@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>TITLE OF TEXT</title>
-        <editor>NAME OF EDITOR (repeat as many as needed)</editor>
+        <title>Declaration of Independence</title>
+        <editor>Neel SMith</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished work in progress</p>
@@ -17,7 +18,12 @@
 
   <text>
     <body>
-      <div n="SECTIONID"><p>TEXT OF SECTION</p></div>
+      <div n="1">
+        <p>In CONGRESS, July 4, 1776.</p>
+      </div>
+      <div n="2">
+        <p>The unanimous Declaration of the thirteen united States of America,</p>
+      </div>
     </body>
   </text>
 
